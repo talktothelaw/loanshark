@@ -1,0 +1,37 @@
+{
+  "name": "loanshark",
+  "version": "0.0.2",
+  "description": "calculates the amount of interest earned or charged using the rule of 78, reducing balance ,straight-line, declining balance etc. ",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talktothelaw/loanshark.git"
+  },
+  "keywords": [
+    "loan",
+    "calculate",
+    "calculate",
+    "reducing balance",
+    "straight-line",
+    "intrest rule 78",
+    "declining balance",
+    "nodejs",
+    "nodejs",
+    "browser"
+  ],
+  "author": "Nwoko Lawrence Ndubueze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talktothelaw/loanshark/issues"
+  },
+  "homepage": "https://github.com/talktothelaw/loanshark#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
