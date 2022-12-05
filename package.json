@@ -1,6 +1,6 @@
 {
   "name": "loanshark",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "calculates the amount of interest earned or charged using the rule of 78, reducing balance ,straight-line, declining balance etc. ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
